@@ -18,7 +18,7 @@
 ✔️ Education\
 ✔️ Contact me
 
-To view a live example, **[click here](https://ashutosh1919.github.io/)**
+To view a live example, **[click here](https://my-protofolio-website-evwubbdc1-jagadeshchillas-projects.vercel.app/)**
 
 # Clone and Use 📋
 
