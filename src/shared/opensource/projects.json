@@ -2,10 +2,70 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "name": "Tour Booking Sysytem",
+      "createdAt": "2023-08-15T04:18:19Z",
+      "url": "https://github.com/jagadeshchilla/tour-booking",
+      "description": "Travelers and Tour Organizers can securely create accounts. User authentication is in place to ensure the privacy and security of data.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "logos-mongodb"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Ecommerce Website",
+      "createdAt": "2023-08-13T20:41:33Z",
+      "url": "https://github.com/jagadeshchilla/ecommerce1",
+      "description": "📦 An eCommerce website is an online platform that allows users to browse, select, and purchase products or services over the internet.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "Spring Boot",
+          "iconifyClass": "logos-spring"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos-mysql"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Book Recommendation System",
+      "createdAt": "2023-09-11T16:26:54Z",
+      "url": "https://github.com/jagadeshchilla/book-recommender-system",
+      "description": "🔥 A book recommendation system is a tool that suggests books to users based on their preferences, reading history, and similar users' behaviors.",
       "isFork": false,
       "languages": [
         {
@@ -15,6 +75,10 @@
         {
           "name": "Shell",
           "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "Flask",
+          "iconifyClass": "logos-flask"
         },
         {
           "name": "Jupyter Notebook",
@@ -23,100 +87,80 @@
       ]
     },
     {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "id": "R_kgDOG0_8uQ",
+      "name": "Crop Yeild prediction",
+      "createdAt": "2024-05-08T14:50:20Z",
+      "url": "https://github.com/jagadeshchilla/crop-yeild-prediction",
+      "description": "🌀 Crop yield prediction involves using data analysis and machine learning techniques to estimate the expected agricultural output based on various factors such as weather conditions, soil quality, and farming practices.",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
         },
         {
           "name": "Shell",
           "iconifyClass": "simple-icons:shell"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Flask",
+          "iconifyClass": "logos-flask"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
         }
       ]
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "name": "personal Diet Recommendation System",
+      "createdAt": "2024-05-09T17:56:07Z",
+      "url": "https://github.com/jagadeshchilla/Personalized-diet-recommendation-system",
+      "description": "⚙️ A personal diet recommendation system is a tool that provides tailored nutrition advice and meal plans based on an individual's health data, preferences, and goals.",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Docker",
+          "iconifyClass": "logos-docker"
+        },
+        {
+          "name": "Streamlit",
+          "iconifyClass": "logos-streamlit"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "name": "AI Smart Irrigation System",
+      "createdAt": "2024-06-06T08:31:51Z",
+      "url": "https://github.com/jagadeshchilla/ai_smart-irrigation",
+      "description": "🚀 Our system mainly deals with the real-time data which includes the soil moisture, temperature, and the  AI-detected growth stage) with  the help of  nueral network model it regulates water supply more precisely,thus       maximizing the yield and minimizing the waste.",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "React",
+          "iconifyClass": "logos-react"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "TensorFlow",
+          "iconifyClass": "logos-tensorflow"
+        },
+        {
+          "name": "FastAPI",
+          "iconifyClass": "logos-fastapi"
         }
       ]
     }
